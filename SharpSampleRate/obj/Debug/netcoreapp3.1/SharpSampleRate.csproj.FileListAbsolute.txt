@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\bin\Debug\netcoreapp3.1\libs\libsamplerate-0.dll
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\bin\Debug\netcoreapp3.1\SharpSampleRate.deps.json
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\bin\Debug\netcoreapp3.1\SharpSampleRate.dll
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\bin\Debug\netcoreapp3.1\SharpSampleRate.pdb
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\obj\Debug\netcoreapp3.1\SharpSampleRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\obj\Debug\netcoreapp3.1\SharpSampleRate.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\obj\Debug\netcoreapp3.1\SharpSampleRate.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\obj\Debug\netcoreapp3.1\SharpSampleRate.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\obj\Debug\netcoreapp3.1\SharpSampleRate.dll
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSampleRate\obj\Debug\netcoreapp3.1\SharpSampleRate.pdb

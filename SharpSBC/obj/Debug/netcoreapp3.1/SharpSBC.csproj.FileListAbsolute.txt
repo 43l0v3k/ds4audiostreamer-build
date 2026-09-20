@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\bin\Debug\netcoreapp3.1\libs\libsbc.dll
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\bin\Debug\netcoreapp3.1\SharpSBC.deps.json
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\bin\Debug\netcoreapp3.1\SharpSBC.dll
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\bin\Debug\netcoreapp3.1\SharpSBC.pdb
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\obj\Debug\netcoreapp3.1\SharpSBC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\obj\Debug\netcoreapp3.1\SharpSBC.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\obj\Debug\netcoreapp3.1\SharpSBC.AssemblyInfo.cs
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\obj\Debug\netcoreapp3.1\SharpSBC.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\obj\Debug\netcoreapp3.1\SharpSBC.dll
+C:\Users\Admin\Downloads\DS4AudioStreamer-main\SharpSBC\obj\Debug\netcoreapp3.1\SharpSBC.pdb
