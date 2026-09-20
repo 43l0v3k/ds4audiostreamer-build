@@ -1,0 +1,37 @@
+name: Build DS4AudioStreamer.exe
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: windows-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET 6 SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: Restore dependencies
+        run: dotnet restore DS4AudioStreamer.sln
+
+      - name: Publish single-file exe
+        run: dotnet publish DS4AudioStreamer/DS4AudioStreamer.csproj -c Release -r win-x64 --self-contained true -p:PublishSingleFile=true -o publish_output
+
+      - name: Copy native DLLs next to the exe
+        shell: pwsh
+        run: |
+          Copy-Item "SharpSBC/libs/libsbc.dll" -Destination "publish_output/" -Force
+          Copy-Item "SharpSampleRate/libs/libsamplerate-0.dll" -Destination "publish_output/" -Force
+
+      - name: Upload exe as build artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: DS4AudioStreamer-exe
+          path: publish_output/
